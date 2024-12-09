@@ -1,0 +1,488 @@
+{
+  "api_version": "1.0",
+  "pagination": {
+    "count": 7,
+    "is_count_exact": true,
+    "page": 1,
+    "pages": 1,
+    "per_page": 100
+  },
+  "results": [
+    {
+      "active_through": 2024,
+      "candidate_id": "H0CA22102",
+      "candidate_inactive": false,
+      "candidate_status": "C",
+      "cycles": [
+        2020,
+        2022,
+        2024
+      ],
+      "district": "13",
+      "district_number": 13,
+      "election_districts": [
+        "22",
+        "13",
+        "13"
+      ],
+      "election_years": [
+        2020,
+        2022,
+        2024
+      ],
+      "federal_funds_flag": false,
+      "first_file_date": "2019-06-05",
+      "has_raised_funds": true,
+      "inactive_election_years": null,
+      "incumbent_challenge": "C",
+      "incumbent_challenge_full": "Challenger",
+      "last_f2_date": "2023-02-05",
+      "last_file_date": "2023-02-05",
+      "load_date": "2023-04-17T21:09:57",
+      "name": "ARBALLO, PHIL",
+      "office": "H",
+      "office_full": "House",
+      "party": "DEM",
+      "party_full": "DEMOCRATIC PARTY",
+      "principal_committees": [
+        {
+          "affiliated_committee_name": "NONE",
+          "candidate_ids": [
+            "H0CA22102"
+          ],
+          "committee_id": "C00830505",
+          "committee_type": "H",
+          "committee_type_full": "House",
+          "cycles": [
+            2022,
+            2024
+          ],
+          "designation": "P",
+          "designation_full": "Principal campaign committee",
+          "filing_frequency": "Q",
+          "first_f1_date": "2022-12-27",
+          "first_file_date": "2022-12-27",
+          "last_f1_date": "2022-12-27",
+          "last_file_date": "2024-09-27",
+          "name": "PHIL ARBALLO FOR CONGRESS",
+          "organization_type": null,
+          "organization_type_full": null,
+          "party": "DEM",
+          "party_full": "DEMOCRATIC PARTY",
+          "state": "CA",
+          "treasurer_name": "FAUSONE, PAUL"
+        },
+        {
+          "affiliated_committee_name": "NONE",
+          "candidate_ids": [
+            "H0CA22102"
+          ],
+          "committee_id": "C00708479",
+          "committee_type": "H",
+          "committee_type_full": "House",
+          "cycles": [
+            2020,
+            2022,
+            2024
+          ],
+          "designation": "A",
+          "designation_full": "Authorized by a candidate",
+          "filing_frequency": "T",
+          "first_f1_date": "2019-06-05",
+          "first_file_date": "2019-06-05",
+          "last_f1_date": "2022-01-20",
+          "last_file_date": "2023-01-12",
+          "name": "ARBALLO FOR CONGRESS",
+          "organization_type": null,
+          "organization_type_full": null,
+          "party": "DEM",
+          "party_full": "DEMOCRATIC PARTY",
+          "state": "CA",
+          "treasurer_name": "JACKSON, SUE"
+        }
+      ],
+      "state": "CA"
+    },
+    {
+      "active_through": 2024,
+      "candidate_id": "H4CA13095",
+      "candidate_inactive": false,
+      "candidate_status": "C",
+      "cycles": [
+        2022,
+        2024
+      ],
+      "district": "13",
+      "district_number": 13,
+      "election_districts": [
+        "13"
+      ],
+      "election_years": [
+        2024
+      ],
+      "federal_funds_flag": false,
+      "first_file_date": "2022-12-08",
+      "has_raised_funds": true,
+      "inactive_election_years": null,
+      "incumbent_challenge": "C",
+      "incumbent_challenge_full": "Challenger",
+      "last_f2_date": "2022-12-08",
+      "last_file_date": "2022-12-08",
+      "load_date": "2023-02-22T21:10:33",
+      "name": "BOYD, BRAD",
+      "office": "H",
+      "office_full": "House",
+      "party": "DEM",
+      "party_full": "DEMOCRATIC PARTY",
+      "principal_committees": [
+        {
+          "affiliated_committee_name": "NONE",
+          "candidate_ids": [
+            "H4CA13095"
+          ],
+          "committee_id": "C00829770",
+          "committee_type": "H",
+          "committee_type_full": "House",
+          "cycles": [
+            2022,
+            2024
+          ],
+          "designation": "P",
+          "designation_full": "Principal campaign committee",
+          "filing_frequency": "T",
+          "first_f1_date": "2022-12-08",
+          "first_file_date": "2022-12-08",
+          "last_f1_date": "2022-12-08",
+          "last_file_date": "2023-03-20",
+          "name": "FRIENDS OF BRAD BOYD",
+          "organization_type": null,
+          "organization_type_full": null,
+          "party": "DEM",
+          "party_full": "DEMOCRATIC PARTY",
+          "state": "CA",
+          "treasurer_name": "LO, ANDY"
+        }
+      ],
+      "state": "CA"
+    },
+    {
+      "active_through": 2024,
+      "candidate_id": "H2CA13131",
+      "candidate_inactive": false,
+      "candidate_status": "C",
+      "cycles": [
+        2022,
+        2024
+      ],
+      "district": "13",
+      "district_number": 13,
+      "election_districts": [
+        "13",
+        "13"
+      ],
+      "election_years": [
+        2022,
+        2024
+      ],
+      "federal_funds_flag": false,
+      "first_file_date": "2022-03-09",
+      "has_raised_funds": true,
+      "inactive_election_years": null,
+      "incumbent_challenge": "I",
+      "incumbent_challenge_full": "Incumbent",
+      "last_f2_date": "2024-07-14",
+      "last_file_date": "2024-07-14",
+      "load_date": "2024-07-14T20:59:32",
+      "name": "DUARTE, JOHN",
+      "office": "H",
+      "office_full": "House",
+      "party": "REP",
+      "party_full": "REPUBLICAN PARTY",
+      "principal_committees": [
+        {
+          "affiliated_committee_name": "DUARTE VICTORY FUND",
+          "candidate_ids": [
+            "H2CA13131"
+          ],
+          "committee_id": "C00808279",
+          "committee_type": "H",
+          "committee_type_full": "House",
+          "cycles": [
+            2022,
+            2024
+          ],
+          "designation": "P",
+          "designation_full": "Principal campaign committee",
+          "filing_frequency": "Q",
+          "first_f1_date": "2022-03-09",
+          "first_file_date": "2022-03-09",
+          "last_f1_date": "2024-07-14",
+          "last_file_date": "2024-10-29",
+          "name": "JOHN DUARTE FOR CONGRESS",
+          "organization_type": null,
+          "organization_type_full": null,
+          "party": "REP",
+          "party_full": "REPUBLICAN PARTY",
+          "state": "CA",
+          "treasurer_name": "LAWLER, KELLY"
+        }
+      ],
+      "state": "CA"
+    },
+    {
+      "active_through": 2024,
+      "candidate_id": "H2CA13115",
+      "candidate_inactive": false,
+      "candidate_status": "C",
+      "cycles": [
+        2022,
+        2024
+      ],
+      "district": "13",
+      "district_number": 13,
+      "election_districts": [
+        "13",
+        "13"
+      ],
+      "election_years": [
+        2022,
+        2024
+      ],
+      "federal_funds_flag": false,
+      "first_file_date": "2022-01-18",
+      "has_raised_funds": true,
+      "inactive_election_years": null,
+      "incumbent_challenge": "C",
+      "incumbent_challenge_full": "Challenger",
+      "last_f2_date": "2023-02-10",
+      "last_file_date": "2023-02-10",
+      "load_date": "2023-08-06T21:01:25",
+      "name": "GRAY, ADAM C.",
+      "office": "H",
+      "office_full": "House",
+      "party": "DEM",
+      "party_full": "DEMOCRATIC PARTY",
+      "principal_committees": [
+        {
+          "affiliated_committee_name": "BLUE TO THE FUTURE 2024",
+          "candidate_ids": [
+            "H2CA13115"
+          ],
+          "committee_id": "C00801431",
+          "committee_type": "H",
+          "committee_type_full": "House",
+          "cycles": [
+            2022,
+            2024
+          ],
+          "designation": "P",
+          "designation_full": "Principal campaign committee",
+          "filing_frequency": "Q",
+          "first_f1_date": "2022-01-18",
+          "first_file_date": "2022-01-18",
+          "last_f1_date": "2024-09-12",
+          "last_file_date": "2024-10-29",
+          "name": "ADAM GRAY FOR CONGRESS",
+          "organization_type": null,
+          "organization_type_full": null,
+          "party": "DEM",
+          "party_full": "DEMOCRATIC PARTY",
+          "state": "CA",
+          "treasurer_name": "OLSON, MEAGAN"
+        }
+      ],
+      "state": "CA"
+    },
+    {
+      "active_through": 2024,
+      "candidate_id": "H2CA13123",
+      "candidate_inactive": false,
+      "candidate_status": "N",
+      "cycles": [
+        2022,
+        2024
+      ],
+      "district": "13",
+      "district_number": 13,
+      "election_districts": [
+        "13",
+        "13"
+      ],
+      "election_years": [
+        2022,
+        2024
+      ],
+      "federal_funds_flag": false,
+      "first_file_date": "2022-02-01",
+      "has_raised_funds": true,
+      "inactive_election_years": null,
+      "incumbent_challenge": "C",
+      "incumbent_challenge_full": "Challenger",
+      "last_f2_date": "2023-04-12",
+      "last_file_date": "2023-04-12",
+      "load_date": "2023-04-16T21:09:31",
+      "name": "MARTINEZ, DIEGO J",
+      "office": "H",
+      "office_full": "House",
+      "party": "REP",
+      "party_full": "REPUBLICAN PARTY",
+      "principal_committees": [
+        {
+          "affiliated_committee_name": "NONE",
+          "candidate_ids": [
+            "H2CA13123"
+          ],
+          "committee_id": "C00803452",
+          "committee_type": "H",
+          "committee_type_full": "House",
+          "cycles": [
+            2022,
+            2024
+          ],
+          "designation": "P",
+          "designation_full": "Principal campaign committee",
+          "filing_frequency": "Q",
+          "first_f1_date": "2022-02-01",
+          "first_file_date": "2022-02-01",
+          "last_f1_date": "2022-08-24",
+          "last_file_date": "2024-10-18",
+          "name": "MARTINEZ FOR CONGRESS",
+          "organization_type": null,
+          "organization_type_full": null,
+          "party": "REP",
+          "party_full": "REPUBLICAN PARTY",
+          "state": "CA",
+          "treasurer_name": "MONTGOMERY, THOMAS"
+        }
+      ],
+      "state": "CA"
+    },
+    {
+      "active_through": 2024,
+      "candidate_id": "H2CA13107",
+      "candidate_inactive": false,
+      "candidate_status": "N",
+      "cycles": [
+        2022,
+        2024
+      ],
+      "district": "13",
+      "district_number": 13,
+      "election_districts": [
+        "13",
+        "13"
+      ],
+      "election_years": [
+        2022,
+        2024
+      ],
+      "federal_funds_flag": false,
+      "first_file_date": "2021-12-24",
+      "has_raised_funds": false,
+      "inactive_election_years": null,
+      "incumbent_challenge": "C",
+      "incumbent_challenge_full": "Challenger",
+      "last_f2_date": "2022-08-22",
+      "last_file_date": "2022-08-22",
+      "load_date": "2023-01-12T22:24:01",
+      "name": "ROSARIO-SIGALA, ANGELINA",
+      "office": "H",
+      "office_full": "House",
+      "party": "DEM",
+      "party_full": "DEMOCRATIC PARTY",
+      "principal_committees": [
+        {
+          "affiliated_committee_name": "NONE",
+          "candidate_ids": [
+            "H2CA13107",
+            "H4CA13103"
+          ],
+          "committee_id": "C00798348",
+          "committee_type": "H",
+          "committee_type_full": "House",
+          "cycles": [
+            2022,
+            2024
+          ],
+          "designation": "P",
+          "designation_full": "Principal campaign committee",
+          "filing_frequency": "Q",
+          "first_f1_date": "2021-12-24",
+          "first_file_date": "2021-12-24",
+          "last_f1_date": "2023-01-16",
+          "last_file_date": "2023-01-16",
+          "name": "ANGELINA SIGALA-ROSARIO FOR CONGRESS",
+          "organization_type": null,
+          "organization_type_full": null,
+          "party": "DEM",
+          "party_full": "DEMOCRATIC PARTY",
+          "state": "CA",
+          "treasurer_name": "ANDRADE, SUSANA"
+        }
+      ],
+      "state": "CA"
+    },
+    {
+      "active_through": 2024,
+      "candidate_id": "H4CA13103",
+      "candidate_inactive": false,
+      "candidate_status": "N",
+      "cycles": [
+        2024
+      ],
+      "district": "13",
+      "district_number": 13,
+      "election_districts": [
+        "13"
+      ],
+      "election_years": [
+        2024
+      ],
+      "federal_funds_flag": false,
+      "first_file_date": "2023-01-16",
+      "has_raised_funds": false,
+      "inactive_election_years": null,
+      "incumbent_challenge": "C",
+      "incumbent_challenge_full": "Challenger",
+      "last_f2_date": "2023-01-16",
+      "last_file_date": "2023-01-16",
+      "load_date": "2023-01-17T22:56:56",
+      "name": "SIGALA-ROSARIO, ANGELINA",
+      "office": "H",
+      "office_full": "House",
+      "party": "DEM",
+      "party_full": "DEMOCRATIC PARTY",
+      "principal_committees": [
+        {
+          "affiliated_committee_name": "NONE",
+          "candidate_ids": [
+            "H2CA13107",
+            "H4CA13103"
+          ],
+          "committee_id": "C00798348",
+          "committee_type": "H",
+          "committee_type_full": "House",
+          "cycles": [
+            2022,
+            2024
+          ],
+          "designation": "P",
+          "designation_full": "Principal campaign committee",
+          "filing_frequency": "Q",
+          "first_f1_date": "2021-12-24",
+          "first_file_date": "2021-12-24",
+          "last_f1_date": "2023-01-16",
+          "last_file_date": "2023-01-16",
+          "name": "ANGELINA SIGALA-ROSARIO FOR CONGRESS",
+          "organization_type": null,
+          "organization_type_full": null,
+          "party": "DEM",
+          "party_full": "DEMOCRATIC PARTY",
+          "state": "CA",
+          "treasurer_name": "ANDRADE, SUSANA"
+        }
+      ],
+      "state": "CA"
+    }
+  ]
+}

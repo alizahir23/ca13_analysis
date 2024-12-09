@@ -1,0 +1,24 @@
+CA-13 Congressional District Demographic Analysis
+==================================================
+
+Population Statistics:
+--------------------
+Total Population: 760,065
+Citizen Voting Age Population: 393,416
+Hispanic CVAP: 197,645
+Black (Non-Hispanic) CVAP: 16,042
+Asian (Non-Hispanic) CVAP: 24,438
+White (Non-Hispanic) CVAP: 145,877
+
+CVAP Demographic Percentages:
+--------------------
+Hispanic: 50.2%
+Black: 4.1%
+Asian: 6.2%
+White: 37.1%
+
+District Properties:
+--------------------
+Ideal Value: 760,066
+Deviation: -1
+Deviation Percentage: -0.00%

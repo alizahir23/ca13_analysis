@@ -1,0 +1,37 @@
+CA-13 Congressional District Analysis Report
+==================================================
+
+Total CVAP: 383,974
+Expected Voters: 234,830
+Overall Expected Turnout: 61.2%
+
+Demographic Analysis:
+--------------------
+
+Hispanic:
+  CVAP: 197,495
+  Expected Turnout: 106,647
+  Turnout Rate: 54.0%
+  Share of Total CVAP: 51.4%
+  Share of Expected Voters: 45.4%
+
+Black:
+  CVAP: 16,130
+  Expected Turnout: 10,162
+  Turnout Rate: 63.0%
+  Share of Total CVAP: 4.2%
+  Share of Expected Voters: 4.3%
+
+Asian:
+  CVAP: 24,392
+  Expected Turnout: 14,391
+  Turnout Rate: 59.0%
+  Share of Total CVAP: 6.4%
+  Share of Expected Voters: 6.1%
+
+White:
+  CVAP: 145,957
+  Expected Turnout: 103,629
+  Turnout Rate: 71.0%
+  Share of Total CVAP: 38.0%
+  Share of Expected Voters: 44.1%
